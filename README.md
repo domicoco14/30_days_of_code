@@ -1,6 +1,6 @@
 # 30 Days of Code 🚀
 
-Hey there! 👋 I’m Dominion, a 17-year-old learning Python, Data Science, and Machine Learning.  
+Hey there! 👋 I’m Dominion, I'm learning Python, Data Science, and Machine Learning.  
 
 This repository is my **30 Days of Code challenge**, where I post **daily coding exercises, projects, and learnings**. The goal is to improve my coding skills, explore data, and build cool projects while **learning in public**.  
 
