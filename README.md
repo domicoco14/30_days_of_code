@@ -36,8 +36,8 @@ I’m documenting my journey **day by day**. Here’s a sneak peek:
 |-----|---------------|-------|
 | 1   | Handling missing values | Built a Python function to automatically fill mean, median, or mode |
 | 2   | Titanic EDA | Explored survival vs fare & class; observed “women & children first” patterns |
-| 3   | … | … |
-| …   | … | … |
+| 3   | Titanic EDA | Explored the dataset and performed some feature Engineering |
+| …   | Titanic EDA | Prepared the dataset for modelling by performing some pre-processing on it |
 
 > I’ll keep updating this table as I go!  
 
